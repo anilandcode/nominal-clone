@@ -1,0 +1,13 @@
+# Live snapshots (re-fetchable with dump_pages.py)
+live_snapshot/
+
+# QA artefacts
+_qa/*.png
+_qa/*.log
+_qa/*.py
+_qa/__pycache__/
+
+.DS_Store
+node_modules/
+.vercel
+*.swp

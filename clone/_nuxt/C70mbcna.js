@@ -1,0 +1,1 @@
+import{o as t,b as e,a as r}from"./BcaMY1Iz.js";import"./BfsisZwU.js";import"./yi-kIxl6.js";const n={xmlns:"http://www.w3.org/2000/svg",fill:"none",stroke:"currentColor","stroke-width":"2",viewBox:"0 0 11 12"};function s(l,o){return t(),e("svg",n,[...o[0]||(o[0]=[r("path",{d:"M0 5.707h9M4 .707l5 5-5 5"},null,-1)])])}const p={render:s};export{p as default,s as render};

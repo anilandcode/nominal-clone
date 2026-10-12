@@ -1,0 +1,1 @@
+import{d as n,o,c as s,p as r,u as c,E as _,G as p}from"./BcaMY1Iz.js";const d=n({__name:"ModuleRenderer",props:{data:{}},setup(a){const{_key:t,...e}=a.data;return(m,u)=>(o(),s(_("Lazy"+p(e._type)),r(e,{"data-key":c(t)}),null,16,["data-key"]))}}),l=Object.assign(d,{__name:"ModuleRenderer"});export{l as _};

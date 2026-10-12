@@ -1,0 +1,1 @@
+import{e as t,o as n,b as o,ai as r}from"./BcaMY1Iz.js";import"./BfsisZwU.js";import"./yi-kIxl6.js";const a={};function s(e,_){return n(),o("li",null,[r(e.$slots,"default",{},void 0,!0)])}const i=Object.assign(t(a,[["render",s],["__scopeId","data-v-b1966001"]]),{__name:"TextNumber"});export{i as default};

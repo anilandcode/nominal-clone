@@ -1,0 +1,1 @@
+import{q as u,t as a}from"./BcaMY1Iz.js";function i(){const e=u("formGate",()=>({}));return{markSubmitted:t=>{t&&(e.value={...e.value,[t]:!0})},hasSubmitted:t=>a(()=>t?e.value[t]===!0:!1)}}export{i as u};
